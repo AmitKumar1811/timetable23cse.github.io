@@ -11,7 +11,7 @@ links= {
 
 Tuesday: ['https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODdiMDU4NTctMWUyMC00OTJiLTkzOGUtNzg2M2ZkN2NiOWEw%40thread.v2/0?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%22570b0c43-b49f-4210-a1d0-10e57e6ffdda%22%7d',
  'https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjE3ODhiNzgtYzQyNS00MjY0LWJhYWQtZWJiYjkwZTFlZDQ5%40thread.v2/0?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%22b81f1f3f-a6b0-471b-98e2-6c7a49ea41b2%22%7d',
- 'https://teams.microsoft.com/l/meetup-join/19%3a1iTztYQdw5flIIjzJNQ8c3I9ljmo5v2e6YJi_y1uj9c1%40thread.tacv2/1659331364086?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%2284f39c42-ce86-411f-b745-8bde42ae5d0e%22%7d',
+ 'https://teams.microsoft.com/l/meetup-join/19%3ayN2B0IPdaTPDx-jbVqA58wgzTq8SHqT1D0jbqOePiPI1%40thread.tacv2/1659354825324?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%2284f39c42-ce86-411f-b745-8bde42ae5d0e%22%7d',
  '',
  'https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmVhMTk0NzQtYzRkMS00ZWY3LWFiMTgtYjU1OTI1YjMwNWYw%40thread.v2/0?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%22fef2dc76-c80b-40ea-81a8-693df324bff5%22%7d',
  '',
