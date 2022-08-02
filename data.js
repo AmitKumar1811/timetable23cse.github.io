@@ -11,7 +11,7 @@ links= {
 
 Tuesday: ['https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODdiMDU4NTctMWUyMC00OTJiLTkzOGUtNzg2M2ZkN2NiOWEw%40thread.v2/0?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%22570b0c43-b49f-4210-a1d0-10e57e6ffdda%22%7d',
  'https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmQ2NjIzZjQtYjJiOS00YmNlLWFjMjItOGFjNTBiZDRmNjg3%40thread.v2/0?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%22570b0c43-b49f-4210-a1d0-10e57e6ffdda%22%7d',
- 'web security',
+ 'https://teams.microsoft.com/l/meetup-join/19%3a1iTztYQdw5flIIjzJNQ8c3I9ljmo5v2e6YJi_y1uj9c1%40thread.tacv2/1659331364086?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%2284f39c42-ce86-411f-b745-8bde42ae5d0e%22%7d',
  '',
  'https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmVhMTk0NzQtYzRkMS00ZWY3LWFiMTgtYjU1OTI1YjMwNWYw%40thread.v2/0?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%22fef2dc76-c80b-40ea-81a8-693df324bff5%22%7d',
  '',
@@ -23,7 +23,7 @@ Tuesday: ['https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODdiMDU4NTctMW
 Wednesday: ['',
  'https://teams.microsoft.com/l/meetup-join/19%3afyNMUzMLJetqXtYePnSjEgodsZgPrsZaBFf47XLU9G81%40thread.tacv2/1659289008711?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%22570b0c43-b49f-4210-a1d0-10e57e6ffdda%22%7d',
  'https://teams.microsoft.com/l/meetup-join/19%3afyNMUzMLJetqXtYePnSjEgodsZgPrsZaBFf47XLU9G81%40thread.tacv2/1659289404853?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%22570b0c43-b49f-4210-a1d0-10e57e6ffdda%22%7d', 
-'https://lms.cuchd.in/course/view.php?id=6292&section=1#tabs-tree-start',
+'web security----',
  '',
  '',
  '',
