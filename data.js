@@ -32,7 +32,7 @@ Wednesday: ['',
 
 Thursday: ['',
  '',
- 'https://teams.microsoft.com/l/meetup-join/19%3ayN2B0IPdaTPDx-jbVqA58wgzTq8SHqT1D0jbqOePiPI1%40thread.tacv2/1659355181995?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%2284f39c42-ce86-411f-b745-8bde42ae5d0e%22%7d', 
+ 'https://teams.microsoft.com/l/meetup-join/19%3ayN2B0IPdaTPDx-jbVqA58wgzTq8SHqT1D0jbqOePiPI1%40thread.tacv2/1659355181995?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%2284f39c42-ce86-411f-b745-8bde42ae5d0e%22%7d'/'https://teams.microsoft.com/l/meetup-join/19%3ayN2B0IPdaTPDx-jbVqA58wgzTq8SHqT1D0jbqOePiPI1%40thread.tacv2/1659355181995?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%2284f39c42-ce86-411f-b745-8bde42ae5d0e%22%7d', 
 '',
  '',
  '',
