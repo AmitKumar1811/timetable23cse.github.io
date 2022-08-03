@@ -15,8 +15,8 @@ Tuesday: ['https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODdiMDU4NTctMW
  '',
  'https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmVhMTk0NzQtYzRkMS00ZWY3LWFiMTgtYjU1OTI1YjMwNWYw%40thread.v2/0?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%22fef2dc76-c80b-40ea-81a8-693df324bff5%22%7d',
  '',
- 'WIRELESS 7TH CLASS',
- 'MODELING ---8TH CLASS',
+ 'https://teams.microsoft.com/l/meetup-join/19%3aHPc2Z5Eq6DFHnVgYpK5iJNXMGd4nDVdlSt0xuq83dxM1%40thread.tacv2/1629013762673?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%222f8d962b-222e-4519-86f5-2c8afe276100%22%7d',
+ 'https://teams.microsoft.com/l/meetup-join/19%3adTczFquD_IsfyoHq13JmbQd3Bud8dBMO8K8EqR5wYyg1%40thread.tacv2/1659433461860?context=%7b%22Tid%22%3a%2234bd8bed-2ac1-41ae-9f08-4e0a3f11706c%22%2c%22Oid%22%3a%220c2a3645-25fb-43b6-9b0d-3d1e0f235f51%22%7d',
  ''],
     
 
